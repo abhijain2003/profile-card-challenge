@@ -56,8 +56,3 @@ h2  {
     font-weight: 700;
 }
 
-@media  (max-width: 425px)  {
-    body   {
-       width: 96%;
-    }
-}
