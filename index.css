@@ -56,10 +56,8 @@ h2  {
     font-weight: 700;
 }
 
-/* @media  (max-width: 425px)  {
+@media  (max-width: 425px)  {
     body   {
-        background-image: url(images/bg-pattern-top.svg);
-        background-repeat: no-repeat , no-repeat;
-        background-position: right 50px;
+       width: 96%;
     }
-} */
+}
