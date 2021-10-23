@@ -62,3 +62,14 @@ h2  {
     font-weight: 700;
 }
 
+@media  (max-width: 425px)  {
+    .container  {
+        max-width: 300px;
+    }
+
+    .box-content  {
+        width: 250px;
+        position: relative;
+        left: -18px;
+    }
+
